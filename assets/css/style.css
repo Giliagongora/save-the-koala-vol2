@@ -162,8 +162,15 @@ army green: 41521F;
 	display: inline-block;
 	font-size: 500%;
 }
-
-
+.btn-info {
+	background-color: #41521F;
+	border-color: none;
+}
+#demo{
+	background: #41521F;
+	color: white;
+	padding: 3%;
+}
 /* seven section */
 .seven-section #letters6{
 	color: #A89F68;
