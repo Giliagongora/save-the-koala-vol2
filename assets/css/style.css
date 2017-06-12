@@ -1,0 +1,190 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+/* Área del navbar */
+/* Elimina los margenes */
+.row{
+	margin: 0px;
+}
+/* Le otorgo el color que deseo al nav bar*/
+.navbar-inverse{
+	background-color: transparent;
+	border-color: transparent;
+}
+/* Primera portada bajo el navbar*/
+.back-portada-koala{
+	height: 100vh;
+	background-image: url("../img/portada.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+
+}
+/* le otorgo al boton caracteristicas en el del navbar*/
+.btn-success{
+	background-color: #41521F;
+	border: none;
+}
+/* Otorgo color y margen al row */
+#row3{
+	margin-top: 25%;
+	color: white;
+}
+/* Otorgo margen y tamaño a la tipografia (Save the Koala) */
+#save-koala{
+	margin-left: 5%;
+	font-size: 15px;
+	color: white;
+}
+/* Otorgo margen y tamaño a botones del nav */
+#save-koa{
+	margin-right: 5%;
+	font-size: 15px;
+	color: white;
+}
+/* le otorgo color a la tipografia */
+#letters0 #letters1{
+	color: white;
+}
+
+
+/* segunda section */
+/* Otorgo alto y ancho a la imagen */
+.second-section{
+	width: 100%;
+	height: 900px auto;
+}
+#row4{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+
+/* tercera section */
+/* Otorgo alto y ancho a la imagen */
+.third-section{
+	width: 100%;
+	height: auto;
+	background-color: #A89F68;
+
+}
+#row5{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+#picture2{
+	border: 10px solid white;
+}
+#letters3{
+	color: white;
+}
+
+
+/* cuarta section */
+/* Otorgo alto y ancho a la imagen */
+.four-section{
+	width: 100%;
+	height: auto;
+	background-color: #A89F68;
+}
+.four-section .row{
+	margin-left: 0px;
+	width: 100vh;
+}
+#fondo-koala3{
+	height: 110vh;
+	background-image: url("../img/all.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+#row6{
+	margin-top: 5%;
+}
+
+
+/* quinta section */
+.five-section{
+	width: 100%;
+	height: auto;
+}
+#row-title{
+	padding-bottom: 3%;
+	color: 	color: #A89F68;
+}
+.parrafo{
+	margin-top: 10%;
+	color: white;
+}
+#letters4{
+	color: #41521F;
+}
+#size{
+	display: flex;
+	justify-content: center;
+	font-size: 3.5em;
+	color: #A89F68;
+	padding-bottom: 3%;
+}
+.glyphicon{
+	display: flex;
+	font-size: 300%;
+	justify-content: center;
+	color: #A89F68;
+	padding-bottom: 5%;
+}
+
+
+
+/* six section */
+.six-section{
+	background-color: #A89F68;
+	width: 100%;
+	height: auto; 
+}
+#letters5{
+	color: white;
+}
+.seven-section{
+	background-color: #41521F;
+	height: 300px; 
+}
+#row10{
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+#row7{
+	margin-top: 5%;
+	margin-bottom: 7%;
+}
+.numeros h1{
+	display: inline-block;
+	font-size: 500%;
+}
+
+
+/* seven section */
+.seven-section #letters6{
+	color: #A89F68;
+}
+.parrafo2{
+	margin-top: 8%;	
+}
+#row2{
+	margin-top: 15%;
+}
+#row9{
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+
+
+
+
+
+#row8{
+	margin-top: 8%;
+}
+
